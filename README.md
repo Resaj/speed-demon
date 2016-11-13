@@ -1,4 +1,4 @@
-# speed-demon
+# Speed Demon
 Speed Demon es mi primer velocista de competición. Ha participado en Alcabot y Cosmobot.
 
 Es un robot bastante casero porque lo hice en 10 días con una plancha de acero que posteriormente cubrí de laca para que no se oxidara.
