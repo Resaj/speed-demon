@@ -11,6 +11,9 @@ Los programas "actuales" de Speed Demon que he subido al repositorio quedaron en
 <img src="images/DSCF2937.jpg" width="500" align = "center">
 </p>
 
+## Autor
+[Rubén Espino San José](https://github.com/Resaj)
+
 ## License
 <p align="center">
 <img src="license/by-sa.png" align = "center">
